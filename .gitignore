@@ -1,0 +1,6 @@
+*.exe
+GameyGame.CSharp.Plugins.csproj
+GameyGame.CSharp.csproj
+GameyGame.sln
+GameyGame.v12.suo
+Library/
